@@ -1,0 +1,14 @@
+{
+	"name":"ganerator-shotthumb",
+	"version": "1.0.1",
+	"description": "Adobe Ganerator ShotThumb Plugin",
+	"main": "main.js",
+	"generator-core-version": "~1",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:takahirome/generator-shotthumb.git"
+      },
+  "license": "MIT",
+  "readmeFilename": "README.md"
+ 
+}

@@ -1,0 +1,1 @@
+﻿#target 'photoshop';/*grobal*/var appFolder = { Windows:"/", Macintosh:"/Adobe Photoshop CC.app/" };var scripts = File( app.path+"\/"+localize("$$$/private/Filenames/Plug-ins=Plug-ins") +"/Generator/shotthumb.generate/jsx/exportShotThumbFiles.jsx");$.evalFile(scripts);shotthumb.generate(params.exportPsd);
