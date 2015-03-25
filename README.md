@@ -1,6 +1,7 @@
 Adobe Photoshop CC 14.1
 Generator ShotThumb Plugin.
 
+http://photoshopnode.com
 ==================
 
 generator-shotthumb ver 1.0
